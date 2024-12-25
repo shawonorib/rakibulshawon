@@ -7,7 +7,7 @@ This project is designed to [briefly describe the purpose of the project]. It ai
 ## Features
 
 - **Front Look**: ![Screenshot of the application](/projectdemopic.png)
-- **Video**: ![Video] (<iframe width="560" height="315" src="/projectdemovideo.mp4" frameborder="0" allowfullscreen></iframe>)
+
 
 ## Installation
 

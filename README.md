@@ -15,7 +15,7 @@ To install this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-https://github.com/shawonorib/rakibulshawon.git
+   (https://github.com/shawonorib/rakibulshawon.git)
    ```
 
 ### Instructions for Customization
